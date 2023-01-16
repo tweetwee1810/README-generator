@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -38,13 +39,15 @@ const questions = [
         type: 'list',
         name: 'License',
         message: 'Choose the license?',
-        Choices: [
+        choices: [
             "MIT",
             "Apache_2.0",
-            "GPL_3.0",
-            "Eclipse",
-            "WTFPL",
-            "GNU",
+            "BSD_2",
+            "BSD_3",
+            "Eclipse_2.0",
+            "GNU_2.0",
+            "GNU_3.0",
+            "Mozilla_2.0",
             "None"
         ],
 
@@ -87,7 +90,10 @@ function init() {
     inquirer
     .prompt(questions)
     .then((response) => {
-        writeToFile('README.md')
+        writeToFile('ExampleREADME.md', generateMarkdown(response))
+    })
+    .catch ((error) => {
+        console.error(error)
     })
 }
 
