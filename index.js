@@ -38,13 +38,13 @@ const questions = [
     },
     {   
         type: 'list',
-        name: 'License',
+        name: 'license',
         message: 'Choose the license?',
         choices: [
             "MIT",
             "Apache_2.0",
-            "BSD_2",
-            "BSD_3",
+            "BSD_2.0",
+            "BSD_3.0",
             "Eclipse_2.0",
             "GNU_2.0",
             "GNU_3.0",
