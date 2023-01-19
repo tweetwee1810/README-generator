@@ -45,7 +45,7 @@ const questions = [
             "Apache_2.0",
             "BSD_2.0",
             "BSD_3.0",
-            "Eclipse_2.0",
+            "Eclipse_1.0",
             "GNU_2.0",
             "GNU_3.0",
             "Mozilla_2.0",
