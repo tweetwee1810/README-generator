@@ -23,7 +23,7 @@
 * Answer the questions to generate the README file including title, description, usage, installation, credits, license, tests (if not applicable, just type N/A).
 * Github name and gmail should also be provided for Questions section.
 
-Demo video: https://drive.google.com/file/d/189EYxhrugjIuQxchW2zNzUi9T8m86JXi/view?usp=sharing 
+Demo video: [My video link](https://drive.google.com/file/d/189EYxhrugjIuQxchW2zNzUi9T8m86JXi/view?usp=sharing)
 
 
 ## License 
