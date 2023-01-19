@@ -125,6 +125,7 @@ function generateMarkdown(data) {
 
   Contact me:
   Github: ${data.Github}
+  
   Email: ${data.Email}
 `;
 }

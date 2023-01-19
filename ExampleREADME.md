@@ -7,7 +7,7 @@
 
   ## Description
   
-  create (generate) readme file
+  create (generate) a README file through all templated questions
 
   
   ## Table of Contents
@@ -21,10 +21,10 @@
   
   ## Installation
   
-  npm
+  install npm package 
   
   ## Usage
-  install npm package
+  run node index.js then answer all the provided questions
 
   
   ## Credits
@@ -48,4 +48,5 @@
 
   Contact me:
   Github: tweetwee1810
+  
   Email: tweetwee1996@gmail.com
