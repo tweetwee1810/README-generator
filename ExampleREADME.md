@@ -1,13 +1,13 @@
 
   
-  # readme-generator
+  # README generator
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  ![badge](https://img.shields.io/badge/License-MIT-blue)
 
 
   ## Description
   
-  create a readme file
+  create (generate) readme file
 
   
   ## Table of Contents
@@ -24,28 +24,28 @@
   npm
   
   ## Usage
-  install npm
+  install npm package
 
   
   ## Credits
-  n/a
+  N/A
  
   
   ## License
 
-  Apache_2.0
-  [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
+  MIT
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   
   ## Features
-  n/a
+  N/A
   
   ## Tests
-  n/a
+  N/A
 
   ## Questions 
 
   Contact me:
   Github: tweetwee1810
-  
   Email: tweetwee1996@gmail.com

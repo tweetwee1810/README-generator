@@ -1,5 +1,6 @@
 # README-generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![badge](https://img.shields.io/badge/JavaScript-100%25-blue)
 
 ## Description 
 
